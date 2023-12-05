@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shield method", "..\shield 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "..\AbstractClass\AbstractClass.csproj", "{40EF4BA0-19BC-4297-BAB3-201EC13BE997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching", "..\Searching\Searching.csproj", "{211E33FC-885B-4E58-A5DD-24B2619C9AF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Searching", "..\Searching\Searching.csproj", "{211E33FC-885B-4E58-A5DD-24B2619C9AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_Overloading", "..\Operator_Overloading\Operator_Overloading.csproj", "{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{211E33FC-885B-4E58-A5DD-24B2619C9AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{211E33FC-885B-4E58-A5DD-24B2619C9AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{211E33FC-885B-4E58-A5DD-24B2619C9AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
