@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BCA 5\\.net\\matmul\\matadd.csproj",
-      "projectName": "matadd",
-      "projectPath": "D:\\BCA 5\\.net\\matmul\\matadd.csproj",
+      "projectUniqueName": "D:\\BCA 5\\.net\\matmul\\lab1-7.csproj",
+      "projectName": "lab1-7",
+      "projectPath": "D:\\BCA 5\\.net\\matmul\\lab1-7.csproj",
       "packagesPath": "C:\\Users\\STAR COMPUTER\\.nuget\\packages\\",
       "outputPath": "D:\\BCA 5\\.net\\matmul\\obj\\",
       "projectStyle": "PackageReference",

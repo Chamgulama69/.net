@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BCA 5\\.net\\Grade\\Grade.csproj",
-      "projectName": "Grade",
-      "projectPath": "D:\\BCA 5\\.net\\Grade\\Grade.csproj",
+      "projectUniqueName": "D:\\BCA 5\\.net\\Grade\\lab1-2.csproj",
+      "projectName": "lab1-2",
+      "projectPath": "D:\\BCA 5\\.net\\Grade\\lab1-2.csproj",
       "packagesPath": "C:\\Users\\STAR COMPUTER\\.nuget\\packages\\",
       "outputPath": "D:\\BCA 5\\.net\\Grade\\obj\\",
       "projectStyle": "PackageReference",

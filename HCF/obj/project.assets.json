@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BCA 5\\.net\\HCF\\HCF.csproj",
-      "projectName": "HCF",
-      "projectPath": "D:\\BCA 5\\.net\\HCF\\HCF.csproj",
+      "projectUniqueName": "D:\\BCA 5\\.net\\HCF\\lab1-4.csproj",
+      "projectName": "lab1-4",
+      "projectPath": "D:\\BCA 5\\.net\\HCF\\lab1-4.csproj",
       "packagesPath": "C:\\Users\\STAR COMPUTER\\.nuget\\packages\\",
       "outputPath": "D:\\BCA 5\\.net\\HCF\\obj\\",
       "projectStyle": "PackageReference",

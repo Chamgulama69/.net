@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BCA 5\\.net\\TempconvO\\TempconvO.csproj",
-      "projectName": "TempconvO",
-      "projectPath": "D:\\BCA 5\\.net\\TempconvO\\TempconvO.csproj",
+      "projectUniqueName": "D:\\BCA 5\\.net\\TempconvO\\lab1-1.csproj",
+      "projectName": "lab1-1",
+      "projectPath": "D:\\BCA 5\\.net\\TempconvO\\lab1-1.csproj",
       "packagesPath": "C:\\Users\\STAR COMPUTER\\.nuget\\packages\\",
       "outputPath": "D:\\BCA 5\\.net\\TempconvO\\obj\\",
       "projectStyle": "PackageReference",

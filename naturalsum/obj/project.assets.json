@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BCA 5\\.net\\naturalsum\\naturalsum.csproj",
-      "projectName": "naturalsum",
-      "projectPath": "D:\\BCA 5\\.net\\naturalsum\\naturalsum.csproj",
+      "projectUniqueName": "D:\\BCA 5\\.net\\naturalsum\\lab1-5.csproj",
+      "projectName": "lab1-5",
+      "projectPath": "D:\\BCA 5\\.net\\naturalsum\\lab1-5.csproj",
       "packagesPath": "C:\\Users\\STAR COMPUTER\\.nuget\\packages\\",
       "outputPath": "D:\\BCA 5\\.net\\naturalsum\\obj\\",
       "projectStyle": "PackageReference",

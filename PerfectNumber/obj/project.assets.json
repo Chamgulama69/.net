@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BCA 5\\.net\\PerfectNumber\\PerfectNumber.csproj",
-      "projectName": "PerfectNumber",
-      "projectPath": "D:\\BCA 5\\.net\\PerfectNumber\\PerfectNumber.csproj",
+      "projectUniqueName": "D:\\BCA 5\\.net\\PerfectNumber\\lab1-3.csproj",
+      "projectName": "lab1-3",
+      "projectPath": "D:\\BCA 5\\.net\\PerfectNumber\\lab1-3.csproj",
       "packagesPath": "C:\\Users\\STAR COMPUTER\\.nuget\\packages\\",
       "outputPath": "D:\\BCA 5\\.net\\PerfectNumber\\obj\\",
       "projectStyle": "PackageReference",
