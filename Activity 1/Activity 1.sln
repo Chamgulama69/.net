@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opover2", "..\opover2\opove
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enum", "..\enum\enum.csproj", "{14742B24-9DB6-42F7-A01E-17722FD07CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2-1", "..\lab2-1\lab2-1.csproj", "{4B2BEFF9-8F51-42F4-AC9C-8C56C3225640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab2-1", "..\lab2-1\lab2-1.csproj", "{4B2BEFF9-8F51-42F4-AC9C-8C56C3225640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2-2", "..\lab2-2\lab2-2.csproj", "{0B12B218-53F2-449C-8E4F-5CB394B2D93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2-3", "..\lab2-3\lab2-3.csproj", "{BF9121CF-B5C7-4712-A233-4A20B2E9B5FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{4B2BEFF9-8F51-42F4-AC9C-8C56C3225640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B2BEFF9-8F51-42F4-AC9C-8C56C3225640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B2BEFF9-8F51-42F4-AC9C-8C56C3225640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B12B218-53F2-449C-8E4F-5CB394B2D93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B12B218-53F2-449C-8E4F-5CB394B2D93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B12B218-53F2-449C-8E4F-5CB394B2D93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B12B218-53F2-449C-8E4F-5CB394B2D93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9121CF-B5C7-4712-A233-4A20B2E9B5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9121CF-B5C7-4712-A233-4A20B2E9B5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9121CF-B5C7-4712-A233-4A20B2E9B5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9121CF-B5C7-4712-A233-4A20B2E9B5FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
